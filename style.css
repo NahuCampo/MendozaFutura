@@ -1,0 +1,23 @@
+h3{
+    color: aqua;
+    text-align: right;
+}
+
+p{
+    background-color: black;
+    color: aliceblue;
+}
+
+h1{
+    color: green;
+}
+
+#primerTitulo{
+    text-align: center;
+    color: red;
+}
+
+.pregunta{
+    text-align: left;
+    color: brown;
+}
