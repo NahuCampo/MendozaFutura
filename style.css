@@ -1,23 +1,16 @@
-h3{
-    color: aqua;
-    text-align: right;
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 10px;
 }
 
-p{
-    background-color: black;
-    color: aliceblue;
+nav a{
+    color:white;
+    text-decoration: none;
+    margin: 0 10px;
 }
 
-h1{
-    color: green;
-}
-
-#primerTitulo{
-    text-align: center;
-    color: red;
-}
-
-.pregunta{
-    text-align: left;
-    color: brown;
+:root{
+    --color-principal: #4CAF50;
 }
